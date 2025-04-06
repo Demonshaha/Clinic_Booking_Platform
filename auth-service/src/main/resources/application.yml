@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: login-service
+    name: auth-service
   cloud:
     nacos:
       discovery:
